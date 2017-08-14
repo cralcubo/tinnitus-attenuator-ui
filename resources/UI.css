@@ -1,0 +1,15 @@
+#run {
+  -fx-graphic: url('./icons/off.png');
+  -fx-background-color: none;
+  -fx-border-color: none;
+}
+
+#run:selected {
+  -fx-graphic: url('./icons/on.png');
+}
+
+#settings {
+  -fx-graphic: url('./icons/settings.png');
+  -fx-background-color: none;
+  -fx-border-color: none;
+}
