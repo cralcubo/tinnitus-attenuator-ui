@@ -3,6 +3,7 @@
 Disclaimer
 ----------
 I am not a doctor or a neurologist and I developed this program because I have tinnitus. 
+
 As you can read in: [Where does this program come from?](https://github.com/cralcubo/tinnitus-atenuator#where-does-this-program-come-from), I read a research article that reported positive results for people which tinnitus frequency was < 8Khz.
 
 **IF YOU USE THIS PROGRAM, USE IT AT YOUR OWN RISK.**
